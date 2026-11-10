@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://waleedbodla115.github.io/websites-by-waleed/sitemap.xml
