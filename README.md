@@ -2,28 +2,31 @@
 
 ### Modern • Professional • Responsive Web Development
 
-Welcome to **Websites By Waleed**! I create modern, responsive, and user-friendly websites that help businesses build a strong online presence.
+Welcome to **Websites By Waleed** — a professional web development brand focused on creating modern, responsive, and user-friendly websites for businesses and individuals.
 
-## 🚀 Live Website
+🌍 **Live Website:**  
+https://waleedbodla115.github.io/websites-by-waleed/
 
-[Visit Websites By Waleed](https://waleedbodla115.github.io/websites-by-waleed/)
+---
 
 ## ✨ Features
 
-- Modern and professional design
-- Fully responsive layout
-- Dark mode toggle
+- Modern and professional website design
+- Fully responsive layouts
+- Dark mode functionality
 - Mobile-friendly navigation
-- Portfolio showcase
+- Interactive portfolio showcase
 - WhatsApp contact integration
 - SEO-friendly HTML structure
 - Smooth scrolling and animations
+- Dedicated business website page
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
+- Git & GitHub
 - GitHub Pages
 
 ## 💼 Services
@@ -33,6 +36,18 @@ Welcome to **Websites By Waleed**! I create modern, responsive, and user-friendl
 - Responsive Website Development
 - Website Redesign
 - Front-End Development
+- Portfolio Website Development
+
+## 📸 Portfolio Projects
+
+### 1. ShopHub
+An e-commerce website project showcasing a modern online shopping experience.
+
+### 2. JavaScript To-Do App
+A task management application built using JavaScript.
+
+### 3. Websites By Waleed
+A professional web development website showcasing services, portfolio projects, and contact information.
 
 ## 📂 Project Structure
 
@@ -40,19 +55,41 @@ Welcome to **Websites By Waleed**! I create modern, responsive, and user-friendl
 websites-by-waleed/
 │
 ├── index.html
+├── business-website.html
 ├── style.css
 ├── script.js
+├── sitemap.xml
+├── robots.txt
+├── README.md
+│
 ├── Business.png
 ├── Fashion.png
 ├── Restaurant.png
-└── README.md
+│
+└── images/
+    ├── ShopHub.png
+    ├── Todo-App.png
+    └── websites-by-waleed.png
 ```
 
-## 📸 Portfolio Projects
+## 🚀 Run Locally
 
-- Business Website
-- Fashion Website
-- Restaurant Website
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/Waleedbodla115/websites-by-waleed.git
+   ```
+
+2. Open the project folder in VS Code.
+
+3. Open `index.html` using Live Server.
+
+## 🌍 Deployment
+
+This website is hosted using **GitHub Pages**.
+
+Live URL:  
+https://waleedbodla115.github.io/websites-by-waleed/
 
 ## 📬 Contact
 
